@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# User data files (don't commit sensitive info)
+accounts.txt
+transactions.txt
+
+# VS Code settings (optional)
+.vscode/
