@@ -27,9 +27,9 @@ A fully-featured CLI Banking System in Python that allows users to securely crea
 |----------------|---------------------|
 | ![Login](Login.png) | ![Account Creation](ACC_Create.png) |
 
-| Welcome Screen | Main Menu |
-|----------------|---------------------|
-| ![welcome](Intro.png) | ![Menu](Menu.png) |
+| Withdrawal |
+|----------------|
+| ![welcome](Withdraw.png) |
 
 ---
 
