@@ -19,7 +19,7 @@ A fully-featured CLI Banking System in Python that allows users to securely crea
 
 ## 📸 Screenshots
 
-| Welcome Screen | Transaction History |
+| Welcome Screen | Main Menu |
 |----------------|---------------------|
 | ![welcome](Intro.png) | ![Menu](Menu.png) |
 
